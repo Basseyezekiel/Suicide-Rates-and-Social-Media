@@ -49,19 +49,19 @@ Dashboard Features
 
 1. Key Metrics:
 
-Total social media usage (Facebook and Twitter)
+- Total social media usage (Facebook and Twitter)
 
-Average suicide rates
+- Average suicide rates
 
 2. Trend Analysis:
-Suicide rates across years and genders
-Social media usage trends over time
+- Suicide rates across years and genders
+- Social media usage trends over time
 
 3. Correlations:
-Facebook/Twitter usage vs. suicide rates by gender
+- Facebook/Twitter usage vs. suicide rates by gender
 
 4. Comparisons:
-Gender-based usage and suicide rate changes
+- Gender-based usage and suicide rate changes
 
 
 
